@@ -1,4 +1,4 @@
-package Ejemplos;
+package Examen1Evaluacion;
 import java.util.Scanner;
 import java.util.Arrays;
 public class examen_corregido_1evaluacion {
